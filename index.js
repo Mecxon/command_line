@@ -32,7 +32,7 @@ const readline = require('readline');const rl = readline.createInterface({
         case '1':
           addItem();
           break;
-        case '2':
+        case '2.':
           removeItem();
           break;
         case '3':
